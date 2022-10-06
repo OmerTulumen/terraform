@@ -1,0 +1,2 @@
+config:
+  Pulumi-quickstart:isMinikube: "false"
